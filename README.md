@@ -1,7 +1,8 @@
 # Android_Calculator
 
 This is a simple android calculator project.
-Functionality:(Can do this job)
+
+Functionality:
 
 (i)Addition of two integer numbers.
 
